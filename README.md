@@ -8,10 +8,9 @@ In this project, you will build a serverless web application using AWS Lambda, D
 
 ### Project Architecture:
 
-![Serverless Web Application on AWS Architecture](https://user-images.githubusercontent.com/66474973/228492073-5cd3d975-3439-4ce4-b109-fb33997df3c3.png)
-
-### Steps to Build the Project:
 ![web-application](https://github.com/MiksVeg/aws-webapplication/assets/119285411/24ca50b4-3a48-4197-9f9f-b7b9814b10f0)
+### Steps to Build the Project:
+
 
 * Create a DynamoDB table to store the items. \
 * Build a Lambda function to handle the CRUD operations on the DynamoDB table. \
